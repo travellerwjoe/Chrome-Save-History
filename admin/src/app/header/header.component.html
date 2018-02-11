@@ -1,0 +1,8 @@
+<header *ngIf="show">
+  <section class="header-title">历史记录</section>
+  <section class="header-filter">
+    <input [class.selected]="selected === true" [(ngModel)]="filter.keyword" type="text" name="keyword" placeholder="搜索历史记录" (click)="onclick">
+    <input [(ngModel)]="filter.date" type="text" name="date" placeholder="按日期搜索">
+    <!-- {{filter.keyword}} -->
+  </section>
+</header>

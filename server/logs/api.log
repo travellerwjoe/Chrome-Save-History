@@ -1,0 +1,51 @@
+[2018-01-25T14:33:35.950] [ERROR] api - { code: 500,
+  message: 'Cannot read property \'headers\' of undefined' }
+[2018-01-25T14:34:12.421] [ERROR] api - [object Object]
+[2018-01-25T14:34:30.862] [ERROR] api - {"code":500,"message":"Cannot read property 'headers' of undefined"}
+[2018-01-25T14:35:51.174] [ERROR] api - ::1{"code":500,"message":"Cannot read property 'headers' of undefined"}
+[2018-01-25T14:35:58.801] [ERROR] api - ::1{"code":500,"message":"Cannot read property 'headers' of undefined"}
+[2018-01-25T14:36:47.698] [ERROR] api - 来自::1 - {"code":500,"message":"Cannot read property 'headers' of undefined"}
+[2018-01-25T14:37:13.141] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'headers' of undefined"}
+[2018-01-25T14:38:20.648] [ERROR] api - 来自(::1) -  {"code":500,"message":"Cannot read property 'headers' of undefined"}
+[2018-01-25T14:38:30.368] [ERROR] api - 来自(::1) -  {"code":500,"message":"Cannot read property 'headers' of undefined"}
+[2018-01-25T14:38:40.738] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'headers' of undefined"}
+[2018-01-25T15:26:09.931] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'headers' of undefined"}
+[2018-01-25T15:29:51.827] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'headers' of undefined"}
+[2018-01-26T15:34:44.375] [ERROR] api - 来自(::1) - {"code":500,"message":"jsonwebtoekn is not a function"}
+[2018-01-26T15:35:21.784] [ERROR] api - 来自(::1) - {"code":500,"message":"jsonwebtoekn is not defined"}
+[2018-01-26T15:36:07.141] [ERROR] api - 来自(::1) - {"code":500,"message":"jsonwebtoken is not a function"}
+[2018-01-26T15:36:51.536] [ERROR] api - 来自(::1) - {"code":500,"message":"logger.info is not a function"}
+[2018-01-26T15:38:53.367] [ERROR] api - 来自(::1) - {"code":500,"message":"logger.info is not a function"}
+[2018-01-26T15:39:15.727] [ERROR] api - 来自(::1) - {"code":500,"message":"logger.info is not a function"}
+[2018-01-26T15:52:57.466] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'action' of undefined"}
+[2018-01-26T15:53:51.736] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'action' of undefined"}
+[2018-01-26T15:55:18.706] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'action' of undefined"}
+[2018-01-26T15:55:34.847] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'action' of undefined"}
+[2018-01-26T15:56:04.196] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'action' of undefined"}
+[2018-01-26T17:35:59.382] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'data' of undefined"}
+[2018-01-26T17:40:48.290] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'data' of undefined"}
+[2018-01-26T17:40:57.951] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'data' of undefined"}
+[2018-01-26T17:42:46.762] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'data' of undefined"} - TypeError: Cannot read property 'data' of undefined
+[2018-01-26T17:43:06.714] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'data' of undefined"} - TypeError: Cannot read property 'data' of undefined
+    at new Controller (E:\Web\Joe.Wu\chrome-save-history-be\src\controller.js:12:36)
+    at generateJWT (E:\Web\Joe.Wu\chrome-save-history-be\src\controller.js:82:15)
+    at dispatch (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\Web\Joe.Wu\chrome-save-history-be\node_modules\koa-body\index.js:98:14
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-01-26T17:43:27.934] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'data' of undefined"} 
+ TypeError: Cannot read property 'data' of undefined
+    at new Controller (E:\Web\Joe.Wu\chrome-save-history-be\src\controller.js:12:36)
+    at generateJWT (E:\Web\Joe.Wu\chrome-save-history-be\src\controller.js:82:15)
+    at dispatch (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\Web\Joe.Wu\chrome-save-history-be\node_modules\koa-body\index.js:98:14
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-02-09T11:51:09.566] [ERROR] api - 来自(::1) - {"code":500,"message":"Cannot read property 'action' of undefined"} 
+ TypeError: Cannot read property 'action' of undefined
+    at Controller.final (E:\Web\Joe.Wu\chrome-save-history-be\src\controller.js:69:26)
+    at Controller.exec (E:\Web\Joe.Wu\chrome-save-history-be\src\controller.js:31:14)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)

@@ -1,0 +1,30 @@
+{
+    "name": "Chrome Save History",
+    "description": "Save Your Activity History In Chrome",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "scripts": [
+            "scripts/common.js",
+            "scripts/history.js"
+        ]
+    },
+    "permissions": [
+        "history",
+        "chrome://favicon/",
+        "tabs",
+        "identity",
+        "identity.email",
+        "system.cpu",
+        "system.memory",
+        "system.storage",
+        "http://localhost/",
+        "http://104.223.24.11/"
+    ],
+    "icons": {
+        "128": "icon.png"
+    }
+}

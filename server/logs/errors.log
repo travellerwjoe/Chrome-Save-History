@@ -1,0 +1,525 @@
+[2018-01-25T09:54:10.756] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-01-25T09:57:44.249] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-01-25T10:01:47.454] [ERROR] DB - null
+[2018-01-25T11:04:58.332] [ERROR] DB - null
+[2018-01-25T11:05:29.183] [ERROR] DB - null
+[2018-01-25T11:05:31.078] [ERROR] DB - null
+[2018-01-25T11:06:22.226] [ERROR] DB - null
+[2018-01-25T11:06:26.811] [ERROR] DB - null
+[2018-01-25T11:07:42.224] [ERROR] DB - null
+[2018-01-25T11:12:00.643] [ERROR] DB - null
+[2018-01-25T11:12:12.835] [ERROR] DB - null
+[2018-01-25T11:18:28.240] [ERROR] DB - null
+[2018-01-25T11:18:49.208] [ERROR] DB - null
+[2018-01-25T11:19:16.990] [ERROR] DB - null
+[2018-01-25T11:21:00.605] [ERROR] DB - null
+[2018-01-25T11:21:25.050] [ERROR] DB - null
+[2018-01-25T11:22:00.996] [ERROR] DB - null
+[2018-01-25T11:22:28.182] [ERROR] DB - null
+[2018-01-25T11:23:10.587] [ERROR] DB - null
+[2018-01-25T11:24:59.849] [ERROR] DB - null
+[2018-01-25T11:26:30.265] [ERROR] DB - null
+[2018-01-25T11:32:08.202] [ERROR] DB - null
+[2018-01-25T11:38:37.438] [ERROR] DB - null
+[2018-01-25T11:40:42.027] [ERROR] DB - null
+[2018-01-25T11:40:59.098] [ERROR] DB - null
+[2018-01-25T11:41:12.552] [ERROR] DB - null
+[2018-01-25T11:41:32.494] [ERROR] DB - null
+[2018-01-25T11:42:23.994] [ERROR] DB - null
+[2018-01-25T11:44:03.231] [ERROR] DB - null
+[2018-01-25T11:44:59.457] [ERROR] DB - null
+[2018-01-25T11:49:45.950] [ERROR] DB - null
+[2018-01-25T11:49:58.367] [ERROR] DB - null
+[2018-01-25T11:50:29.808] [ERROR] DB - null
+[2018-01-25T12:03:05.181] [ERROR] DB - null
+[2018-01-25T12:06:03.864] [ERROR] DB - null
+[2018-01-25T12:07:03.248] [ERROR] DB - null
+[2018-01-25T12:07:33.929] [ERROR] DB - null
+[2018-01-25T12:08:28.358] [ERROR] DB - null
+[2018-01-25T12:09:21.479] [ERROR] DB - null
+[2018-01-25T12:09:54.897] [ERROR] DB - null
+[2018-01-25T12:10:11.318] [ERROR] DB - null
+[2018-01-25T12:10:31.105] [ERROR] DB - null
+[2018-01-25T12:10:41.966] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-01-25T12:11:09.672] [ERROR] DB - null
+[2018-01-25T14:02:05.235] [ERROR] DB - null
+[2018-01-25T14:03:38.329] [ERROR] DB - null
+[2018-01-25T14:04:33.071] [ERROR] DB - null
+[2018-01-25T14:04:50.297] [ERROR] DB - null
+[2018-01-25T14:06:14.447] [ERROR] DB - null
+[2018-01-25T14:12:17.854] [ERROR] DB - null
+[2018-01-25T14:12:35.000] [ERROR] DB - null
+[2018-01-25T14:14:10.637] [ERROR] DB - null
+[2018-01-25T14:14:46.097] [ERROR] DB - null
+[2018-01-25T14:16:09.641] [ERROR] DB - null
+[2018-01-25T14:18:55.495] [ERROR] DB - null
+[2018-01-25T14:22:59.591] [ERROR] DB - null
+[2018-01-25T14:24:37.468] [ERROR] DB - null
+[2018-01-25T14:27:38.799] [ERROR] DB - null
+[2018-01-25T14:28:11.523] [ERROR] DB - null
+[2018-01-25T14:33:28.129] [ERROR] DB - null
+[2018-01-25T14:34:10.060] [ERROR] DB - null
+[2018-01-25T14:34:26.896] [ERROR] DB - null
+[2018-01-25T14:35:27.508] [ERROR] DB - null
+[2018-01-25T14:35:47.252] [ERROR] DB - null
+[2018-01-25T14:36:43.001] [ERROR] DB - null
+[2018-01-25T14:37:01.525] [ERROR] DB - null
+[2018-01-25T14:38:17.898] [ERROR] DB - null
+[2018-01-25T14:38:38.145] [ERROR] DB - null
+[2018-01-25T14:39:27.115] [ERROR] DB - null
+[2018-01-29T16:21:03.923] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-01-29T16:21:47.096] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:39:44.990] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:46:27.519] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:48:02.742] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:50:25.942] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:50:45.598] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:51:06.050] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:51:27.982] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:51:31.695] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:51:52.035] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:52:40.258] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:54:02.999] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:54:24.428] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:55:41.003] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:55:45.201] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:56:40.530] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:56:54.276] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T11:57:17.502] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T12:01:22.102] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T12:01:37.919] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T12:01:56.018] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T12:02:01.856] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
+[2018-02-09T12:03:20.719] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }

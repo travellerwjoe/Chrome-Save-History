@@ -1,0 +1,127 @@
+[2018-01-24T18:42:44.645] [ERROR] test - sdfsdfsdf
+[2018-01-24T18:43:38.811] [ERROR] test - sdfsdfsdf
+[2018-01-24T18:45:28.044] [INFO] test - xxxffff
+[2018-01-24T18:45:44.335] [INFO] test - { request: 
+   { method: 'POST',
+     url: '/history',
+     header: 
+      { host: 'localhost:3000',
+        connection: 'keep-alive',
+        'content-length': '2',
+        pragma: 'no-cache',
+        'cache-control': 'no-cache',
+        origin: 'null',
+        'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36',
+        'content-type': 'application/json',
+        accept: '*/*',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8' } },
+  response: { status: 404, message: 'Not Found', header: {} },
+  app: { subdomainOffset: 2, proxy: false, env: 'development' },
+  originalUrl: '/history',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>' }
+[2018-01-24T18:48:12.741] [INFO] test - { request: 
+   { method: 'POST',
+     url: '/history',
+     header: 
+      { host: 'localhost:3000',
+        connection: 'keep-alive',
+        'content-length': '2',
+        pragma: 'no-cache',
+        'cache-control': 'no-cache',
+        origin: 'null',
+        'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36',
+        'content-type': 'application/json',
+        accept: '*/*',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8' } },
+  response: { status: 404, message: 'Not Found', header: {} },
+  app: { subdomainOffset: 2, proxy: false, env: 'development' },
+  originalUrl: '/history',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>' }
+[2018-01-24T18:48:31.234] [INFO] test - { request: 
+   { method: 'POST',
+     url: '/history',
+     header: 
+      { host: 'localhost:3000',
+        connection: 'keep-alive',
+        'content-length': '2',
+        pragma: 'no-cache',
+        'cache-control': 'no-cache',
+        origin: 'null',
+        'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36',
+        'content-type': 'application/json',
+        accept: '*/*',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8' } },
+  response: { status: 404, message: 'Not Found', header: {} },
+  app: { subdomainOffset: 2, proxy: false, env: 'development' },
+  originalUrl: '/history',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>' }
+[2018-01-24T18:49:32.469] [INFO] test - { method: 'POST',
+  url: '/history',
+  header: 
+   { host: 'localhost:3000',
+     connection: 'keep-alive',
+     'content-length': '2',
+     pragma: 'no-cache',
+     'cache-control': 'no-cache',
+     origin: 'null',
+     'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36',
+     'content-type': 'application/json',
+     accept: '*/*',
+     'accept-encoding': 'gzip, deflate, br',
+     'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8' } }
+[2018-01-24T18:50:00.570] [INFO] test - { method: 'POST',
+  url: '/history',
+  header: 
+   { host: 'localhost:3000',
+     connection: 'keep-alive',
+     'content-length': '2',
+     pragma: 'no-cache',
+     'cache-control': 'no-cache',
+     origin: 'null',
+     'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36',
+     'content-type': 'application/json',
+     accept: '*/*',
+     'accept-encoding': 'gzip, deflate, br',
+     'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8' } }
+[2018-01-24T18:50:31.100] [INFO] test - { method: 'POST',
+  url: '/history',
+  header: 
+   { host: 'localhost:3000',
+     connection: 'keep-alive',
+     'content-length': '2',
+     pragma: 'no-cache',
+     'cache-control': 'no-cache',
+     origin: 'null',
+     'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36',
+     'content-type': 'application/json',
+     accept: '*/*',
+     'accept-encoding': 'gzip, deflate, br',
+     'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8' } }
+[2018-01-24T18:51:08.429] [INFO] test - ::1
+[2018-01-24T18:53:03.673] [INFO] test - ::1
+[2018-01-25T09:53:43.661] [ERROR] DB - { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\topologies\server.js:503:11)
+    at emitOne (events.js:115:13)
+    at Pool.emit (events.js:210:7)
+    at Connection.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\pool.js:326:12)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at Connection.emit (events.js:213:7)
+    at Socket.<anonymous> (E:\Web\Joe.Wu\chrome-save-history-be\node_modules\mongodb-core\lib\connection\connection.js:245:50)
+    at Object.onceWrapper (events.js:316:30)
+    at emitOne (events.js:115:13)
+    at Socket.emit (events.js:210:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]' }
